@@ -19,12 +19,15 @@ public class SoldState implements State{
         System.out.println("A gumball comes rolling out the slot");
         int count = gumballMachine.getCount();
         count = count - 1;
-        gumballMachine.setCount(count - 1);
+        gumballMachine.setCount(count);
         if (count == 0) {
             System.out.println("Ooop, out of gumballs!");
-            gumballMachine.setState(GumballMachine.SOLD_OUT);
+            gumballMachine.setState(GumballMachine.sold_out);
         } else {
-            gumballMachine.setState(GumballMachine.NO_QUARTER);
+            gumballMachine.setState(GumballMachine.no_quarter);
         }
+    }
+    public void refill(int n) {
+        System.out.println("No need to refill");
     }
 }

@@ -1,4 +1,5 @@
 package state_pattern;
+import java.util.Random;
 
 public class HasQuarterState implements  State{
     GumballMachine gumballMachine;
@@ -11,14 +12,23 @@ public class HasQuarterState implements  State{
     }
     public void ejectQuarter() {
         System.out.println("Quarter returned");
-        gumballMachine.setState(GumballMachine.NO_QUARTER);
+        gumballMachine.setState(GumballMachine.no_quarter);
+
     }
     public void turnCrank() {
         System.out.println("You turned...");
-        gumballMachine.setState(GumballMachine.SOLD);
-        ///// Calling dispense at SOLD state
+        Random rand = new Random();
+        if (rand.nextFloat() < 0.9) {
+            gumballMachine.setState(GumballMachine.winner);
+        } else {
+            gumballMachine.setState(GumballMachine.sold);
+        }
     }
     public void dispense() {
         System.out.println("You need to turn the crank");
+    }
+
+    public void refill(int n) {
+        System.out.println("No need to refill");
     }
 }
