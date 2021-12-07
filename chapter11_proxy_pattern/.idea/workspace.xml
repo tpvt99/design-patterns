@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="246964d1-a547-4d93-a4e0-66e5ca200d1d" name="Default Changelist" comment="" />
+    <list default="true" id="246964d1-a547-4d93-a4e0-66e5ca200d1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/protection_proxy/MatchMakingTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/protection_proxy/NonOwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/protection_proxy/OwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/protection_proxy/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/protection_proxy/PersonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/client/GumballMachineClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/client/GumballMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/WinnerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/server/GumballMachineRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/server/GumballMachineServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_package/client/MyRemoteClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_package/server/MyRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi_package/server/MyRemoteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/Icon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/ImageComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/ImageProxyTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/GumballMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/GumballMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/HasQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/HasQuarterState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/NoQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/NoQuarterState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldOutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldOutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/WinnerState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/WinnerState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -19,9 +59,72 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\design-patterns\chapter11_proxy_pattern\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ImageProxy">
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rmi_package.client.MyRemoteClient" />
+      <module name="chapter11_proxy_pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gumball Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rmi_gumball.client.GumballMachineClient" />
+      <module name="chapter11_proxy_pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gumball Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rmi_gumball.server.GumballMachineServer" />
+      <module name="chapter11_proxy_pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageProxy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="virtual_proxy.ImageProxyTestDrive" />
+      <module name="chapter11_proxy_pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Match Making" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="protection_proxy.MatchMakingTestDrive" />
+      <module name="chapter11_proxy_pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rmi_package.server.MyRemoteImpl" />
+      <module name="chapter11_proxy_pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Gumball Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Gumball Client" />
+      <item itemvalue="Application.ImageProxy" />
+      <item itemvalue="Application.Match Making" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="246964d1-a547-4d93-a4e0-66e5ca200d1d" name="Default Changelist" comment="" />
@@ -30,7 +133,28 @@
       <option name="presentableId" value="Default" />
       <updated>1635833922040</updated>
       <workItem from="1635833923529" duration="2000" />
+      <workItem from="1638166266647" duration="75000" />
+      <workItem from="1638166352877" duration="3501000" />
+      <workItem from="1638251407804" duration="7036000" />
+      <workItem from="1638336839200" duration="4616000" />
+      <workItem from="1638423168771" duration="4638000" />
+      <workItem from="1638772255589" duration="1850000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
