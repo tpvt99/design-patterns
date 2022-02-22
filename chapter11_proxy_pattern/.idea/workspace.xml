@@ -2,36 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246964d1-a547-4d93-a4e0-66e5ca200d1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protection_proxy/MatchMakingTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protection_proxy/NonOwnerInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protection_proxy/OwnerInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protection_proxy/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protection_proxy/PersonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/client/GumballMachineClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/client/GumballMonitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/HasQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/NoQuarterState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/SoldOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/SoldState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/entity/WinnerState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/server/GumballMachineRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_gumball/server/GumballMachineServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_package/client/MyRemoteClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_package/server/MyRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rmi_package/server/MyRemoteImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/Icon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/ImageComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/ImageProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/virtual_proxy/ImageProxyTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/GumballMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/GumballMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/HasQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/HasQuarterState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/NoQuarterState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/NoQuarterState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldOutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldOutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/SoldState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/State.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/WinnerState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter10_state/out/production/chapter10_state/state_pattern/WinnerState.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +109,8 @@
       <workItem from="1638336839200" duration="4616000" />
       <workItem from="1638423168771" duration="4638000" />
       <workItem from="1638772255589" duration="1850000" />
+      <workItem from="1638871436152" duration="739000" />
+      <workItem from="1639454900625" duration="131000" />
     </task>
     <servers />
   </component>
